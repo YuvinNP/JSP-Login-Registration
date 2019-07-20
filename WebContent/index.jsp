@@ -36,7 +36,7 @@
                             </div>
                             <button type="submit" class="btn btn-primary btn-block">Sign In</button>                            
                         </form>
-                        <div class="text-center mt-3"> Cannot Remember Password? <a href="#">Forgot Password</a></div>
+                        <div class="text-center mt-3"> <a href="#">Forgot Password?</a></div>
                        
                     </div>
                 </div>
