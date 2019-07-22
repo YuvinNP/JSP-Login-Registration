@@ -9,6 +9,7 @@ public class User {
 
 	private String userId;
 	private String userName;
+	private String userEmail;
 	private String userAddress;
 	private String userMobile;
 	private String userGender;
@@ -53,6 +54,12 @@ public class User {
 	}
 	public void setUserGender(String userGender) {
 		this.userGender = userGender;
+	}
+	public String getUserEmail() {
+		return userEmail;
+	}
+	public void setUserEmail(String userEmail) {
+		this.userEmail = userEmail;
 	}
 
 	@Override
